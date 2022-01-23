@@ -1,0 +1,18 @@
+ /* font-family: Dongle*/
+ 
+ @font-face {
+     font-family: Dongle;
+     src: url('../Fonts/Dongle/Dongle-Regular.ttf')
+ }
+ /* font-family:Montserrat */
+ 
+ @font-face {
+     font-family: Monserrat;
+     src: url('../Fonts/Montserrat/Montserrat-VariableFont_wght.ttf')
+ }
+ /* font-family:Raleway */
+ 
+ @font-face {
+     font-family: Raleway;
+     src: url('../Fonts/Raleway/Raleway-VariableFont_wght.ttf')
+ }
