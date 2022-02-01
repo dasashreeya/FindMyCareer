@@ -176,12 +176,12 @@ main .site-title .btn:hover {
 /* --------------- Site Carousel ------------ */
 
 main .blog {
-    background: url('../assets/—Pngtree—abstract\ wave\ dot\ blue\ _5505168.png ');
+    background: url('../assets/—Pngtree—\ blooming\ starry\ sky\ brush_4978551.png ');
     background-repeat: no-repeat;
-    background-position: left;
-    height: 100vh;
+    background-position: top;
+    height: 130vh;
     width: 100%;
-    background-size: 65%;
+    background-size: 100%;
 }
 
 main .blog .blog-post {
@@ -192,6 +192,7 @@ main .blog-post .blog-content {
     display: flex;
     flex-direction: column;
     text-align: center;
+    background: white;
     width: 80%;
     margin: 3rem 3rem;
     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
