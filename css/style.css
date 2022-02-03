@@ -208,6 +208,22 @@ main .blog-content .btn-blog {
     margin: .5rem;
 }
 
+main .blog-content .blog-link {
+    padding: 1.5rem 1rem;
+    font-size: 2.0rem;
+    position: relative;
+    font-family: var(--Raleway);
+    font-size: 2.0rem;
+}
+
+main .blog-content .blog-link:hover {
+    background-color: rgb(77, 162, 211);
+}
+
+main .blog-content .blog-link:hover a {
+    color: var(--black);
+}
+
 main .blog-content span {
     display: block;
 }
@@ -294,8 +310,14 @@ main .site-content .post-content>.post-image .post-info span {
 }
 
 main .post-content .post-title a {
-    font-family: var(--Monseratt);
-    font-size: 4.0rem;
+    font-family: var(--Raleway);
+    border-radius: 0;
+    padding: .7rem 1.5rem;
+    background: var(--sky);
+    color: black;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
 }
 
 .site-content .post-content .post-title .post-btn {
